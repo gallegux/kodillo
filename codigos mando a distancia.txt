@@ -1,0 +1,97 @@
+izq
+TRAFFIC: [           50949]	>> 04:44:03
+DEBUG:   [           50950]	key pressed: left (3)
+DEBUG:   [           50951]	>> TV (0) -> Playback 1 (4): user control pressed (44)
+TRAFFIC: [           51172]	>> 04:8b:03
+DEBUG:   [           51173]	key released: left (3)
+DEBUG:   [           51174]	>> TV (0) -> Playback 1 (4): vendor remote button up (8B)
+
+der
+TRAFFIC: [           69963]	>> 04:44:04
+DEBUG:   [           69963]	key pressed: right (4)
+DEBUG:   [           69964]	>> TV (0) -> Playback 1 (4): user control pressed (44)
+TRAFFIC: [           70037]	>> 04:8b:04
+DEBUG:   [           70037]	key released: right (4)
+DEBUG:   [           70040]	>> TV (0) -> Playback 1 (4): vendor remote button up (8B)
+
+arr 
+TRAFFIC: [          109293]	>> 04:44:01
+DEBUG:   [          109294]	key pressed: up (1)
+DEBUG:   [          109295]	>> TV (0) -> Playback 1 (4): user control pressed (44)
+TRAFFIC: [          109367]	>> 04:8b:01
+DEBUG:   [          109367]	key released: up (1)
+DEBUG:   [          109369]	>> TV (0) -> Playback 1 (4): vendor remote button up (8B)
+
+aba
+TRAFFIC: [           86371]	>> 04:44:02
+DEBUG:   [           86371]	key pressed: down (2)
+DEBUG:   [           86372]	>> TV (0) -> Playback 1 (4): user control pressed (44)
+TRAFFIC: [           86445]	>> 04:8b:02
+DEBUG:   [           86445]	key released: down (2)
+DEBUG:   [           86446]	>> TV (0) -> Playback 1 (4): vendor remote button up (8B)
+
+centro
+TRAFFIC: [          134242]	>> 04:44:00
+DEBUG:   [          134242]	key pressed: select (0)
+DEBUG:   [          134243]	>> TV (0) -> Playback 1 (4): user control pressed (44)
+TRAFFIC: [          134444]	>> 04:8b:00
+DEBUG:   [          134444]	key released: select (0)
+DEBUG:   [          134445]	>> TV (0) -> Playback 1 (4): vendor remote button up (8B)
+
+rojo
+TRAFFIC: [          207608]	>> 04:44:72
+DEBUG:   [          207609]	key pressed: F2 (red) (72)
+DEBUG:   [          207610]	>> TV (0) -> Playback 1 (4): user control pressed (44)
+TRAFFIC: [          207812]	>> 04:8b:72
+DEBUG:   [          207812]	key released: F2 (red) (72)
+DEBUG:   [          207813]	>> TV (0) -> Playback 1 (4): vendor remote button up (8B)
+
+verde
+TRAFFIC: [          237141]	>> 04:44:73
+DEBUG:   [          237141]	key pressed: F3 (green) (73)
+DEBUG:   [          237142]	>> TV (0) -> Playback 1 (4): user control pressed (44)
+TRAFFIC: [          237344]	>> 04:8b:73
+DEBUG:   [          237344]	key released: F3 (green) (73)
+DEBUG:   [          237345]	>> TV (0) -> Playback 1 (4): vendor remote button up (8B)
+
+amarilllo
+TRAFFIC: [          260943]	>> 04:44:74
+DEBUG:   [          260943]	key pressed: F4 (yellow) (74)
+DEBUG:   [          260944]	>> TV (0) -> Playback 1 (4): user control pressed (44)
+TRAFFIC: [          261166]	>> 04:8b:74
+DEBUG:   [          261166]	key released: F4 (yellow) (74)
+DEBUG:   [          261167]	>> TV (0) -> Playback 1 (4): vendor remote button up (8B)
+
+azul
+TRAFFIC: [          276238]	>> 04:44:71
+DEBUG:   [          276238]	key pressed: F1 (blue) (71)
+DEBUG:   [          276240]	>> TV (0) -> Playback 1 (4): user control pressed (44)
+TRAFFIC: [          276444]	>> 04:8b:71
+DEBUG:   [          276444]	key released: F1 (blue) (71)
+DEBUG:   [          276445]	>> TV (0) -> Playback 1 (4): vendor remote button up (8B)
+
+return
+TRAFFIC: [          292105]	>> 04:44:0d
+DEBUG:   [          292105]	key pressed: exit (d)
+DEBUG:   [          292106]	>> TV (0) -> Playback 1 (4): user control pressed (44)
+TRAFFIC: [          292309]	>> 04:8b:0d
+DEBUG:   [          292309]	key released: exit (d)
+DEBUG:   [          292311]	>> TV (0) -> Playback 1 (4): vendor remote button up (8B)
+
+exit
+TRAFFIC: [          310634]	>> 04:44:2c
+DEBUG:   [          310634]	key pressed: clear (2c)
+DEBUG:   [          310635]	>> TV (0) -> Playback 1 (4): user control pressed (44)
+TRAFFIC: [          310841]	>> 04:8b:2c
+DEBUG:   [          310842]	key released: clear (2c)
+DEBUG:   [          310843]	>> TV (0) -> Playback 1 (4): vendor remote button up (8B)
+
+option
+TRAFFIC: [          349402]	>> 04:44:0a
+DEBUG:   [          349402]	key pressed: setup menu (a)
+DEBUG:   [          349403]	>> TV (0) -> Playback 1 (4): user control pressed (44)
+TRAFFIC: [          349560]	>> 04:8b:0a
+DEBUG:   [          349560]	key released: setup menu (a)
+DEBUG:   [          349561]	>> TV (0) -> Playback 1 (4): vendor remote button up (8B)
+
+

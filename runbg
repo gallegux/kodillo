@@ -1,0 +1,2 @@
+cd /home/pi/kodillo
+nohup ./run_kodillo.sh > /var/tmp/kodillo.log.txt &
